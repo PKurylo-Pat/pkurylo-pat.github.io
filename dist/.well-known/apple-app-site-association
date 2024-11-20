@@ -1,0 +1,22 @@
+{
+   "applinks":{
+      "details":[
+         {
+            "comment":"McLuck app",
+            "appIDs":[
+               "3CW565P27P.com.mcluck.app"
+            ],
+            "components":[
+               {
+                  "/":"/v1/confirm-email/*"
+               }
+            ]
+         }
+      ]
+   },
+   "webcredentials":{
+      "apps":[
+         "3CW565P27P.com.mcluck.app"
+      ]
+   }
+}
