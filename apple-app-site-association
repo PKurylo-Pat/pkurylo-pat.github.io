@@ -1,82 +1,85 @@
 {
-   "applinks": {
-     "details": [
-       {
-         "comment": "McLuck app",
-         "appIDs": [
-           "3CW565P27P.com.mcluck.app"
-         ],
-         "components": [
-           {
-             "/": "/v1/confirm-email/*"
-           },
-           {
-             "/": "/login"
-           },
-           {
-             "/": "/register"
-           },
-           {
-             "/": "/lobby"
-           },
-           {
-             "/": "/gold-coins"
-           },
-           {
-             "/": "/promotions/*"
-           },
-           {
-             "/": "/providers/*"
-           },
-     {
-             "/": "/games/*"
-           },
-           {
-             "/": "/my-profile"
-           },
-           {
-             "/": "/slots/*"
-           },
-           {
-             "/": "/recommended"
-           },
-           {
-             "/": "/live-casino"
-           },
+  "applinks": {
+    "details": [
+      {
+        "comment": "McLuck app",
+        "appIDs": [
+          "3CW565P27P.com.mcluck.app"
+        ],
+        "components": [
           {
-             "/": "/slingo"
-           },
-           {
-             "/": "/privacy"
-           },
-           {
-             "/": "/player-safety"
-           },
-           {
-             "/": "/terms-of-service"
-           },
-           {
-             "/": "/sweepstakes-rules"
-           },
-           {
-             "/": "/about-us"
-           },
-           {
-             "/": "/features/*"
-           },
-           {
-             "/": "/hc/*"
-           },
-           {
-             "/": "/reset-password-manually"
-           },
-         ]
-       }
-     ]
-   },
-   "webcredentials": {
-     "apps": [
-       "3CW565P27P.com.mcluck.app"
-     ]
-   }
- }
+            "/": "/v1/confirm-email/*"
+          },
+          {
+            "/": "/login"
+          },
+          {
+            "/": "/register"
+          },
+          {
+            "/": "/lobby"
+          },
+          {
+            "/": "/gold-coins"
+          },
+          {
+            "/": "/promotions/*"
+          },
+          {
+            "/": "/providers/*"
+          },
+          {
+            "/": "/games"
+          },
+          {
+            "/": "/games/*"
+          },
+          {
+            "/": "/my-profile"
+          },
+          {
+            "/": "/slots/*"
+          },
+          {
+            "/": "/recommended"
+          },
+          {
+            "/": "/live-casino"
+          },
+          {
+            "/": "/slingo"
+          },
+          {
+            "/": "/privacy"
+          },
+          {
+            "/": "/player-safety"
+          },
+          {
+            "/": "/terms-of-service"
+          },
+          {
+            "/": "/sweepstakes-rules"
+          },
+          {
+            "/": "/about-us"
+          },
+          {
+            "/": "/features/*"
+          },
+          {
+            "/": "/hc/*"
+          },
+          {
+            "/": "/reset-password-manually"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "3CW565P27P.com.mcluck.app"
+    ]
+  }
+}
