@@ -72,7 +72,13 @@
           },
           {
             "/": "/reset-password-manually"
-          }
+          },
+          {
+            "/": "/themes"
+          },
+          {
+            "/": "/themes/*"
+          },
         ]
       }
     ]
