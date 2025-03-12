@@ -25,6 +25,9 @@
           {
             "/": "/promotions/*"
           },
+         { 
+            "/": "/providers"
+          },
           {
             "/": "/providers/*"
           },
@@ -41,7 +44,7 @@
             "/": "/slots/*"
           },
           {
-            "/": "/recommended"
+            "/": "/for-you"
           },
           {
             "/": "/live-casino"
